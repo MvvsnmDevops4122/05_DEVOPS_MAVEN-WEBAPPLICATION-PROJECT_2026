@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Satya Home Page</title>
+<title>Satya Devops Home Page</title>
 <link href="images/kkfunda.jpg" rel="icon">
 </head>
 </head>
