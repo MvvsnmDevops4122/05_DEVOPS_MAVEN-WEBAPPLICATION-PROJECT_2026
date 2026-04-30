@@ -19,9 +19,9 @@ node {
 
     stage('Deploy to Tomcat') {
         sh '''
-        curl -u satya:password \
+        curl -u admin:1234 \
         --upload-file target/maven-web-application.war \
-        "http://54.91.76.99:8080/manager/text/deploy?path=/maven-web-application&update=true"
+        "http://54.166.217.232:8080/manager/text/deploy?path=/maven-web-application&update=true"
         '''
     }
 }
