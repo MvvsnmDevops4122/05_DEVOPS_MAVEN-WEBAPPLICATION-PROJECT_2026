@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Nissi-3 DevOps</h1>
+<h1 align="center">Welcome to Nissi devops</h1>
 <h1 align="center"> Satya Devops</h1>
 <hr>
 <br>
